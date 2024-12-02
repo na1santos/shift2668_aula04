@@ -13,7 +13,7 @@ public class TeacherHelper {
         Scanner leitor = new Scanner(System.in);
 
         while(opcao!=4) {
-            System.out.println("FERRAMENTA DE AUXÍLIO AO PROFESSOR!");
+            System.out.println("\nFERRAMENTA DE AUXÍLIO AO PROFESSOR!");
             System.out.println("Selecione a opção desejada:");
             System.out.println("1 - Calcular salário");
             System.out.println("2 - Calcular média de notas dos alunos");
