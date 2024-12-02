@@ -36,7 +36,7 @@ public class TeacherHelper {
                     salario = salarioBase + horaAtividade + descansoSemanalRemunerado;
 
                     System.out.println("O salário do professor está composto da seguinte forma:");
-                    System.out.printf("\nSalário baseR$%.2f" , salarioBase);
+                    System.out.printf("\nSalário base R$%.2f" , salarioBase);
                     System.out.printf("\nHora-atividade R$%.2f" , horaAtividade);
                     System.out.printf("\nDSR R$%.2f" , descansoSemanalRemunerado);
                     System.out.printf("\nSalário total R$%.2f" , salario);
